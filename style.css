@@ -13,7 +13,7 @@
     position: relative;
 }
 nav{
-    background-color: blue;
+    background-color: rgba((264,264,342,0.5)(264,264,433,0.5));
     padding-bottom: 12px;
     display: flex;
     padding: 2% 6%;
@@ -26,7 +26,7 @@ nav{
      
 }
 nav img{
-    width: 150px;
+    width: 100px;
 }
 .nav-links{
     flex: 1;
